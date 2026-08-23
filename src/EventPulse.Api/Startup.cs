@@ -28,6 +28,7 @@ namespace EventPulse.Api
         {
 
             services.AddControllers();
+            services.AddSingleton<ITicketOrderService, TicketOrderService>();
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "EventPulse.Api", Version = "v1" });
