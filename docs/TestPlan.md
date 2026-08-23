@@ -1,9 +1,9 @@
 # Software Test Strategy & Test Plan (STLC Phase 2)
 
 **Project:** EventPulse (Digital Event Ticketing Engine)  
-**Author:** SDET / Lead Quality Engineer  
+**Author:** Faris
 **Version:** 1.0  
-**Status:** Approved  
+**Status:** In Progress
 
 ---
 
