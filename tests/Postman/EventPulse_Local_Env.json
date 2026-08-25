@@ -1,0 +1,19 @@
+{
+  "id": "e9876543-21ba-4321-fedc-0987654321fe",
+  "name": "EventPulse Local Environment",
+  "values": [
+    {
+      "key": "baseUrl",
+      "value": "http://localhost:5000",
+      "type": "default",
+      "enabled": true
+    },
+    {
+      "key": "lastHoldId",
+      "value": "",
+      "type": "default",
+      "enabled": true
+    }
+  ],
+  "_postman_variable_scope": "environment"
+}
